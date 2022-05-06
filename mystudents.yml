@@ -1,0 +1,27 @@
+---
+- myStudents: 
+  - name: alok
+    phono: 7878787878
+    address:
+       - doorno: 234
+       - streatno: 2
+       - pincode: 67676767
+     
+  - name: aravind
+    phono: 6767676767
+    address: 
+     - doorno: 234
+     - streatno: 2
+     - pincode: 67676767
+
+  - name: janani
+    phono: 898989898989
+    address: 
+          - doorno: 234
+          - streatno: 2
+          - pincode: 67676767
+
+    # space notaion 
+
+
+  
