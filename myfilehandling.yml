@@ -1,6 +1,6 @@
 ---
 - hosts: 172.31.19.1 
-  beocme: yes
+  become: yes
   tasks: 
   - name: create file 
     file:
